@@ -75,7 +75,7 @@ I can work across the full stack and adapt to different technologies depending o
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aslbekqoziboyev536-star&show_icons=true&theme=tokyonight)
 
 ---
 
